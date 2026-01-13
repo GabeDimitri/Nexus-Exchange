@@ -1,5 +1,5 @@
 
-# Custom built DEX to work in confluence with TRW Platform
+# Nexus Exchange
 
 ## Setting up
 
